@@ -1,7 +1,18 @@
 {
-"profiles":[
-{"id":101,"name":"Seema","age":38},
-{"id":102,"name":"Devan","age":43},
-{"id":103,"name":"Abinav","age":9}
-]
+	"profiles": [{
+			"id": 101,
+			"name": "Seema",
+			"age": 38
+		},
+		{
+			"id": 102,
+			"name": "Devan",
+			"age": 43
+		},
+		{
+			"id": 103,
+			"name": "Abinav",
+			"age": 9
+		}
+	]
 }
